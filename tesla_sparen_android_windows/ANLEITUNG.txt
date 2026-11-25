@@ -1,0 +1,7 @@
+TESLA SPAREN – ANDROID
+
+Diese Dateien sind eine installierbare Web-App (PWA), keine APK.
+Zum Installieren muss der Ordner auf einer HTTPS-Webadresse liegen.
+Dann auf dem Samsung mit Chrome öffnen > Menü ⋮ > App installieren.
+Die Einträge werden lokal im Browser auf dem Samsung gespeichert.
+Der Laptop wird nur zum einmaligen Veröffentlichen benötigt.
